@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/icons">
+    <file>icons/burger.png</file>
+    <file>icons/waffle.png</file>
+</qresource>
+<qresource prefix="/maps">
+    <file>maps/map_front.pgm</file>
+    <file>maps/map_front.yaml</file>
+    <file>maps/map3.pgm</file>
+    <file>maps/map3.yaml</file>
+</qresource>
+</RCC>
